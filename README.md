@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=dracula&locale=cn&count_private=true&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&layout=compact&card_width=250">
 </div>
