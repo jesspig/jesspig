@@ -48,10 +48,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white">
 </div>
 
-<div align="center"> 
+<!-- <div align="center">  -->
   <img src="https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=dracula&locale=cn&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&locale=cn&hide=html,css&layout=compact">
-</div>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&locale=cn"> -->
+<!-- </div> -->
 
 #### 我的个人博客 (my blog)
 [https://jesspig.github.io/blog](https://jesspig.github.io/blog)
