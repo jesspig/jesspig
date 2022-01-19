@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=dracula&locale=cn&count_private=true&line_height=40) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula) 
 -->
 ### 正在学习和使用的语言和工具 (Languages and tools being learned and used)
-<div align="left"> 
+<div align="center"> 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
@@ -48,11 +48,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white">
 </div>
 
-<!-- <div align="center">  -->
+<div align="center" class="lang"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=dracula&locale=cn&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&locale=cn&hide=html,css&layout=compact">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&locale=cn"> -->
-<!-- </div> -->
+</div>
 
 #### 我的个人博客 (my blog)
 [https://jesspig.github.io/blog](https://jesspig.github.io/blog)
