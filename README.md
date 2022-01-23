@@ -58,5 +58,7 @@ Here are some ideas to get you started:
   <img src="https://stats.justsong.cn/api/csdn?id=weixin_42355240&theme=dark&cn=true">
 </div>
 
-#### 我的个人博客 (my blog)
-[https://jesspig.github.io/blog](https://jesspig.github.io/blog)
+<div align="center"> 
+<h4>我的个人博客 (my blog)</h4>
+<a href="https://jesspig.github.io/blog">https://jesspig.github.io/blog</a>
+</div>
