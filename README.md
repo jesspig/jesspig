@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <div align="center" class="lang"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=radical&count_private=true&hide_border=true">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&hide=html,css&layout=compact"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&hide_border=true&hide=html">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=dracula&locale=cn&count_private=true"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&locale=cn&hide=html,css&layout=compact"> -->
   <img src="https://stats.justsong.cn/api/leetcode/?username=jesspig&cn=true&theme=dark">
