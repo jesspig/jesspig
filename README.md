@@ -1,11 +1,3 @@
-## 你好呀 (Hi there) 👋
-
-欢迎来到我的主页 (Welcome to my page) 
-
-我的访客 (Number of accesses)
-
-![](https://profile-counter.glitch.me/jesspig/count.svg)
-
 <!--
 **jesspig/jesspig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +15,17 @@ Here are some ideas to get you started:
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=dracula&locale=cn&count_private=true&line_height=40) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula) 
 -->
-### 正在学习或者正在使用的语言和工具 (Programming languages and tools being learned or used)
+
+欢迎来到我的 GitHub 主页 👋
+> Welcome to my GitHub page 👋
+
+我的访客数量
+> The number of visitors
+
+![](https://profile-counter.glitch.me/jesspig/count.svg)
+
+我目前正在学习或者正在使用的编程语言和开发工具
+> Programming languages and development tools that I am currently learning or using
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -53,19 +55,9 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"> -->
 </div>
 
-<!--
-<div align="center" class="lang">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=radical&count_private=true&hide_border=true">
-<*--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&hide=html,css&layout=compact"> --*>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&hide_border=true&layout=compact&hide=html">
-<*--   <img src="https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=dracula&locale=cn&count_private=true"> --*>
-<*--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=dracula&locale=cn&hide=html,css&layout=compact"> --*>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=jesspig&cn=true&theme=dark">
-  <img src="https://stats.justsong.cn/api/csdn?id=weixin_42355240&theme=dark">
-</div>
--->
 
 ![](https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=radical&count_private=true&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&hide_border=true&layout=compact&hide=html)![](https://stats.justsong.cn/api/leetcode/?username=jesspig&cn=true&theme=dark)![](https://stats.justsong.cn/api/csdn?id=weixin_42355240&theme=dark)  
  
-欢迎访问我的个人网站 (Welcome to my personal website): [https://jesspig.site](https://jesspig.site)
+欢迎访问我的个人网站: [https://jesspig.site](https://jesspig.site)
+> Welcome to my personal website: [https://jesspig.site](https://jesspig.site)
 
