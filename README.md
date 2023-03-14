@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 
 <table border="1">
   <tr><td align="center"><img width="100%" src="https://profile-counter.glitch.me/jesspig/count.svg"/></td></tr>
-  <tr><td align="center"><img width="100%" src="https://metrics.lecoq.io/jesspig?template=classic"/></td></tr>
+  <tr><td align="center"><img width="100%" src="https://metrics.lecoq.io/jesspig"/></td></tr>
   <tr><td align="center"><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=jesspig&theme=github-compact"/></td></tr>
-  <!-- <tr><td align="center"><img width="100%" src="https://stats.justsong.cn/api/leetcode?username=jesspig&theme=dark&cn=true"/></td></tr> -->
-  <!-- <tr><td align="center"><img width="100%" src="https://streak-stats.demolab.com/?user=jesspig&theme=radical"/></td></tr> -->
-  <!-- <tr><td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=jesspig&theme=radical"/></td></tr> -->
-  <!-- <tr><td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&layout=compact&hide=html,css"/></td></tr> -->
-  <!-- <tr><td align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=jesspig&theme=radical"/></td></tr> -->
 </table>
