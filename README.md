@@ -66,8 +66,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=jesspig&show_icons=true&theme=radical&count_private=true&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesspig&theme=radical&hide_border=true&layout=compact&hide=html)![](https://stats.justsong.cn/api/leetcode/?username=jesspig&cn=true&theme=dark)![](https://stats.justsong.cn/api/csdn?id=weixin_42355240&theme=dark)  
+ 
+欢迎访问我的个人网站 (Welcome to my personal website): [https://jesspig.site](https://jesspig.site)
 
-<div align="center"> 
-<h4>我的个人网站 (my website)</h4>
-<a href="https://jesspig.site">https://jesspig.site</a>
-</div>
