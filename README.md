@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <table border="1">
   <tr><td align="center"><img width="100%" src="https://profile-counter.glitch.me/jesspig/count.svg"/></td></tr>
-  <tr><td align="center"><img width="100%" src="https://raw.fastgit.org/jesspig/jesspig/main/github-metrics.svg"/></td></tr>
+  <tr><td align="center"><img width="100%" src="https://raw.staticdn.net/jesspig/jesspig/main/github-metrics.svg"/></td></tr>
   <tr><td align="center"><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=jesspig&theme=github-compact"/></td></tr>
 </table>
+
 
