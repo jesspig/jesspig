@@ -28,7 +28,7 @@ jobs:
 
           # Options
           user: jesspig
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
@@ -42,7 +42,7 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_calendar: yes
-          plugin_calendar_limit: 2
+          plugin_calendar_limit: 3
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
@@ -70,7 +70,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: jesspig,metrics,hexo-theme-webstack,blog,Daily-Article-Management-CN,techblog-config,Techblog-Article-Management-EN,88wGen,techblog-en
+          plugin_languages_skipped: jesspig,metrics,hexo-theme-webstack,blog,Daily-Article-Management-CN,techblog-config,Techblog-Article-Management-EN,88wGen,techblog-en,web-example,jesspig.github.io,www-config 
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
