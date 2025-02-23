@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 <!-- 欢迎来到我的 GitHub 主页 👋
 > Welcome to my GitHub page 👋 -->
 
-<table border="1">
-  <trtr><td td align=="center"><img img width=="100%" src=="https://profile-counter.glitch.me/jesspig/count.svg"/></tdtd></trtr>
+<!--  <table border="1"> -->
+  
+<!--   <trtr><td td align=="center"><img img width=="100%" src=="https://profile-counter.glitch.me/jesspig/count.svg"/></tdtd></trtr> -->
 <!--   <tr><td align="center"><img width="100%" src="https://raw.staticdn.net/jesspig/jesspig/main/github-metrics.svg"/></td></tr> -->
-  <tr><td align="center"><img width="100%" src="./github-metrics.svg"/></td></tr>
+<img width="100%" src="./github-metrics.svg"/>
 <!--   <tr><td align="center"><img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=jesspig&theme=github-compact"/></td></tr> -->
-</table>
+<!-- </table> -->
 
 
