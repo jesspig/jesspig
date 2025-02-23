@@ -17,8 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - public_repo
-          #  - read:project
           #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
@@ -52,7 +50,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_ignored: html.css
+          plugin_languages_ignored: html,css
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
@@ -69,24 +67,13 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: .user.website
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_skyline: yes
-          plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
+          plugin_pagespeed_url: https://jesspig.site
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: graph
-          plugin_stargazers_days: 14
+          plugin_stargazers_days: 0
           plugin_stargazers_worldmap: yes
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
@@ -96,8 +83,8 @@ jobs:
           plugin_steam_sections: player,most-played, recently-played
           plugin_steam_user: jesspig552
           plugin_stock: yes
-          plugin_stock_duration: 6mo
-          plugin_stock_interval: 1d
+          plugin_stock_duration: 1d
+          plugin_stock_interval: 1m
           plugin_stock_symbol: SPY
           plugin_topics: yes
           plugin_topics_limit: 15
