@@ -17,7 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -29,9 +28,7 @@ jobs:
           user: jesspig
           template: classic
           base: header, activity, community, repositories, metadata
-          config_octicon: yes
           config_timezone: Asia/Shanghai
-          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -40,7 +37,6 @@ jobs:
           plugin_calendar_limit: 1
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_indepth: yes
           plugin_followup_sections: user
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -50,28 +46,12 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_ignored: html,css
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved,skills,recent
-          plugin_leetcode_user: .user.login
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://jesspig.site
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-          plugin_traffic: yes
+          plugin_pagespeed_url: .user.website
