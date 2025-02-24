@@ -29,10 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_followup: yes
@@ -54,4 +50,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: https://jesspig.site
