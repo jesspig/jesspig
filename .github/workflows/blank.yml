@@ -50,4 +50,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://jesspig.site
+          # plugin_pagespeed_url: https://jesspig.site
